@@ -1,0 +1,70 @@
+
+		     Capítulo 2: Electrostática.
+
+		        EL Campo eléctrico:
+
+Introducción:
+
+- El problema fundamental del electromagnetismo clásico es:
+
+     	      DADO UN CIERTO NÚMERO DE CARGAS, Y SUS
+	      POSICIONES COMO FUNCIÓN DE TIEMPO...
+
+	      ¿CÓMO PODEMOS SABER LA FUERZA QUE ACTÚA
+	      SOBRE UNA CARGA DE PRUEBA SITUADA EN LOS
+	      ALREDEDORES DE ESTAS?
+
+  Además, queremos determinar la trayectoria de la CARGA DE
+  PRUEBA. Conociendo la disposición de las CARGAS FUENTE
+
+- La fuerza eléctrica obedece a un PRINCIPIO DE SUPERPOSICIÓN
+  el cual establece que:
+
+     	     LA FUERZA ELÉCTRIA QUE EJERCE UNA CARGA SO-
+	     BRE OTRA NO SE VE AFECTADA POR LA PRESENCIA
+	     DE OTRAS CARGAS EN LOS ALREDEDORES.
+
+  IMPORTANTE: Matemáticamente, el principio de superposición
+  	      implica que la fuerza neta sobre una carga es
+	      la SUMA VECTORIAL de las fuerzas producidas por
+	      cada una de las cargas fuente.
+
+   (!!!)      El principio de superposición NO es una NECESI-
+              DAD LÓGICA, sino un hecho experimental.
+
+Ley de Coulomb:
+
+- La fuerza que experimenta una partícula de prueba q cargada a
+  una distancia r de una carga fuente Q que la produce es:
+
+      		     	 1       q*Q
+      	        VEC(F)=-------*------UN(r)
+		       4*pi*e0   r"2"
+
+		e0=8.85e-12 C"2"*N"-1"*m"-2"
+
+  Esto significa que:
+
+       LA FUERZA ELECTROSTÁTICA QUE EXPERIMENTA UNA CARGA
+       DE PRUEBA PUNTUAL, EN PRESENCIA DE UNA CARAGA PUN-
+       TUAL FUENTE ES DIRECTAMENTE PROPORCIANAL AL PRODUC-
+       TO DE LAS CARGAS E INVERSAMENTE PROPORCIONAL AL CUA-
+       DRADO DE LA DISTANCIA QUE LOS SEPARA.
+
+IMPORTANTE: La fuerza electrostática de Coulomb va en dirección
+	    del vector unitario que une a las cargas.
+
+- La fuerza electrostática de Coulomb es atractiva si q*Q<0, y
+  repulsiva si q*Q>0. Esto es:
+
+  	    CARGAS DEL MISMO SIGNO SE REPELEN, Y CARGAS
+	    DE SIGNOS OPUESTOS SE ATRAEN.
+
+IMPORTANTE: En la soluciión de problemas de electrostática, los
+	    fundamentos físicos son el PRINCIPIO DE SUPERPOSI-
+	    CIÓN y la LEY DE COULOMB...
+
+   (!!!)    EL RESTO ES PURA MATEMÁTICA Y GEOMETRÍA
+
+- En la agenda azul se encuentran problemas asociados a la ley
+  de Coulomb y fuerza electrostática de cargas puntuales.
